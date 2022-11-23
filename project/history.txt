@@ -1,6 +1,0 @@
-0216 1 Light -1
-0316 1 Light -1
-0516 1 Light 2
-1116 1 Light 1
-1116 1 Light -2
-1116 1 Light 4
